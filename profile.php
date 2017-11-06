@@ -13,6 +13,10 @@
 <a href='edu.php'>Click Here For Course Registration</a>&nbsp;&nbsp;&nbsp;
      <br>
      <a href='admform.php'>Click Here For filling up personal details</a>&nbsp;&nbsp;&nbsp;
+     <br>
+     <a href='updatedetails.php'>Click Here to update your details </a>&nbsp;&nbsp;&nbsp;
+     <br>
+     <a href='howphoto.php'>how to update your photo</a>&nbsp;&nbsp;&nbsp;
 
 </form>
 </html>

@@ -11,6 +11,8 @@
  
 	            
 <a href='edu.php'>Click Here For Course Registration</a>&nbsp;&nbsp;&nbsp;
+     <br>
+     <a href='admform.php'>Click Here For filling up personal details</a>&nbsp;&nbsp;&nbsp;
 
 </form>
 </html>
